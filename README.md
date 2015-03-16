@@ -3,6 +3,11 @@ Automatically exported from code.google.com/p/statusbarex
 
 
 
+Code license
+New BSD License
+
+
+
 Host the code for StatusbarEx
 
 StatusbarEx is an extension for firefox, which can display some useful (depends) information in the addon-bar for firefox 4.
